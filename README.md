@@ -14,6 +14,6 @@ Current Software Engineer student. Expanding my skills and looking for new oppor
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Moustafa-FD&theme=dark&hide_border=true&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=Moustafa-FD&theme=dark&hide_border=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Moustafa-FD&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moustafa-FD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
